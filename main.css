@@ -1,3 +1,7 @@
+@font-face{
+	font-family: Prototype;
+	url:("/fonts/Prototype.ttf")
+}
 html{
 	background: #000000;
 	color: #ffffff;
