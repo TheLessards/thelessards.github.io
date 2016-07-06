@@ -25,11 +25,11 @@ html{
 }
 .block-normal{
 	background:#000000;
-	border:2pz solid #ffffff;
+	border:2px solid #ffffff;
 }
 .block-important{
 	background:#AA0000;
-	border:2pz solid #ffffff;
+	border:2px solid #ffffff;
 }
 .block-title{
 	font-family: Prototype;
@@ -44,4 +44,10 @@ html{
 .block-info{
 	font-size: 18px;
 	color: #ffffff;
+}
+.block-top{
+	text-decoration:none;
+	color:#ffffff;
+	border:2px solid #ffffff;
+	border-radius:5px;
 }
