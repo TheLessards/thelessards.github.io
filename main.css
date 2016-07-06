@@ -23,3 +23,25 @@ html{
 	text-decoration: none;
 	padding:5px;
 }
+.block-normal{
+	background:#000000;
+	border:2pz solid #ffffff;
+}
+.block-important{
+	background:#AA0000;
+	border:2pz solid #ffffff;
+}
+.block-title{
+	font-family: Prototype;
+	font-size: 22px;
+	color: #ffffff;
+}
+.block-date{
+	font-family: Prototype;
+	font-size: 18px;
+	color: #aaaaaa;
+}
+.block-info{
+	font-size: 18px;
+	color: #ffffff;
+}
