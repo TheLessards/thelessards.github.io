@@ -7,6 +7,10 @@ html{
 	color: #ffffff;
 	font-family: sans-serif;
 }
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
 .header-title{
 	font-family: Prototype, sans-serif;
 	font-size: 36px;
