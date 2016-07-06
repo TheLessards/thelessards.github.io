@@ -20,4 +20,5 @@ html{
 .header-links a{
 	color: #ffffff;
 	font-size: 18px;
+	text-decoration: none;
 }
