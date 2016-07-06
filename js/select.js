@@ -1,4 +1,4 @@
-function imageUploader(){
+function fileUploader(){
 	var x = document.getElementById("uploadFile");
 	var display = "";
 	if('file' in x){
