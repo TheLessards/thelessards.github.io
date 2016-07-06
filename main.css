@@ -26,10 +26,12 @@ html{
 .block-normal{
 	background:#000000;
 	border:2px solid #ffffff;
+	padding:5px;
 }
 .block-important{
 	background:#AA0000;
 	border:2px solid #ffffff;
+	padding:5px;
 }
 .block-title{
 	font-family: Prototype;
@@ -50,4 +52,5 @@ html{
 	color:#ffffff;
 	border:2px solid #ffffff;
 	border-radius:5px;
+	padding:5px;
 }
