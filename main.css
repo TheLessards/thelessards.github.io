@@ -1,6 +1,6 @@
 @font-face{
 	font-family: Prototype;
-	url:("/fonts/Prototype.ttf")
+	url:("/fonts/Prototype");
 }
 html{
 	background: #000000;
@@ -8,7 +8,7 @@ html{
 	font-family: sans-serif;
 }
 .header-title{
-	font-family: Prototype;
+	font-family: Prototype, sans-serif;
 	font-size: 36px;
 	color: #ffffff;
 	text-decoration: none;
@@ -24,7 +24,7 @@ html{
 	padding:5px;
 }
 .notonline{
-	font-family: Prototype;
+	font-family: Prototype, sans-serif;
 	font-size: 36px;
 	color: #ffffff;
 	text-decoration: none;
@@ -40,12 +40,12 @@ html{
 	padding:5px;
 }
 .block-title{
-	font-family: Prototype;
+	font-family: Prototype, sans-serif;
 	font-size: 22px;
 	color: #ffffff;
 }
 .block-date{
-	font-family: Prototype;
+	font-family: Prototype, sans-serif;
 	font-size: 18px;
 	color: #aaaaaa;
 }
