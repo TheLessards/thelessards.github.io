@@ -1,5 +1,5 @@
 function imageUploader(){
-	var x = document.getElementById("imageFile");
+	var x = document.getElementById("uploadFile");
 	var display = "";
 	if('file' in x){
 		if(x.files.length == 0){
