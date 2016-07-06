@@ -5,10 +5,8 @@ html{
 }
 .header{
 }
-.header a{
+.header-title{
+	font-size: 36px;
 	color: #000000;
 	text-decoration: none;
-}
-.header-title{
-	font-size: 36px
 }
