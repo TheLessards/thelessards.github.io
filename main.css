@@ -23,6 +23,12 @@ html{
 	text-decoration: none;
 	padding:5px;
 }
+.notonline{
+	font-family: Prototype;
+	font-size: 36px;
+	color: #ffffff;
+	text-decoration: none;
+}
 .block-normal{
 	background:#000000;
 	border:2px solid #ffffff;
