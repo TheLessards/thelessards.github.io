@@ -19,6 +19,7 @@ html{
 }
 .header-links a{
 	color: #ffffff;
-	font-size: 18px;
+	font-size: 22px;
 	text-decoration: none;
+	padding:5px;
 }
